@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Baabuu-10/food-recipe.git/static/css/main.9c7e6d0e.css",
+    "main.js": "/Baabuu-10/food-recipe.git/static/js/main.14a2cb5f.js",
+    "index.html": "/Baabuu-10/food-recipe.git/index.html",
+    "main.9c7e6d0e.css.map": "/Baabuu-10/food-recipe.git/static/css/main.9c7e6d0e.css.map",
+    "main.14a2cb5f.js.map": "/Baabuu-10/food-recipe.git/static/js/main.14a2cb5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c7e6d0e.css",
+    "static/js/main.14a2cb5f.js"
+  ]
+}
